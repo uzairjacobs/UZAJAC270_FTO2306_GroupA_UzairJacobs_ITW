@@ -1,3 +1,6 @@
 let yay;
 let goooo;
-let NOOOOOOO;
+
+
+let YYESSSSS;
+let GOGOGOGOGO;
