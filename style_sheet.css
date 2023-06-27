@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+    font-size: 3em;
+    color: black;
+    margin-bottom: .3em;
+    text-decoration: underline;
+  }
+  
+  aside {
+    text-align: left;
+    font-size: small;
+    color: blueviolet;
+  }
+
+  h2 {
+    text-decoration: underline;
+  }
