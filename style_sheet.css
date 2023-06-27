@@ -4,14 +4,19 @@ h1 {
     color: black;
     margin-bottom: .3em;
     text-decoration: underline;
+    background-color: darkolivegreen;
   }
   
   aside {
     text-align: left;
     font-size: small;
-    color: blueviolet;
+    color: blueviolet;;
   }
 
   h2 {
     text-decoration: underline;
   }
+
+  * {
+    font: Verdana, Arial, 'sans-serif' !important;
+}
