@@ -36,13 +36,12 @@ body {
 }
 
 aside{
+  margin-right: 100rem;
   padding-left:1rem;
   background-color: black;
-  margin-top: -1rem;
+  
   padding-top: 2rem;
   padding-bottom: 2rem;
-  border:5px solid white;
-  border-style: ridge ;
   text-align: left;
   font-size: small;
   color: white;
@@ -56,4 +55,6 @@ margin-bottom: 1rem;
 
 footer{
   text-align: center;
+  border:2px solid black;
+  border-style: inset;
 }
