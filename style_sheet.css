@@ -1,22 +1,59 @@
 h1 {
-    text-align: center;
     font-size: 3em;
-    color: black;
-    margin-bottom: .3em;
-    text-decoration: underline;
-    background-color: darkolivegreen;
-  }
-  
-  aside {
-    text-align: left;
-    font-size: small;
-    color: white;
   }
 
-  h2 {
+h2 {
     text-decoration: underline;
   }
 
-  html {
+html {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+article {
+  margin-left:10rem;
+  margin-right:10rem;
+  
+}
+
+header{
+  background-color: darkolivegreen;
+  color: white;
+  text-align: center;
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#resumeImage{
+  border-radius: 50%;
+  border: solid white 4px
+}
+
+aside{
+  padding-left:1rem;
+  background-color: black;
+  margin-top: -1rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  border:5px solid white;
+  border-style: ridge ;
+  text-align: left;
+  font-size: small;
+  color: white;
+}
+
+section{
+margin-top: 1rem;
+margin-bottom: 1rem;
+
+}
+
+footer{
+  text-align: center;
 }
